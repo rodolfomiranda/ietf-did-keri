@@ -222,7 +222,7 @@ Creation of a did:keri DID is accomplished by creating, signing and publishing a
 
 Detailed steps for prefix derivation are in \[\[KID0001\]\] and witness configuration in \[\[KID0009\]\]. Inception events are covered in \[\[KID0003\]\].
 
-## Read
+## Resolve
 
 Steps to resolve a \`did:keri:$PREFIX\` DID:
 
